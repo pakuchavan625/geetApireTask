@@ -1,0 +1,81 @@
+.contact-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.conatct-title {
+  font-size: 29px;
+  font-weight: 700;
+}
+.contact-left-items {
+  font-size: 19px;
+  font-weight: 400;
+}
+.conatct-app {
+  margin: 0px 10px 0px 10px;
+}
+.home-icon {
+  font-size: 19px;
+  font-weight: 400;
+}
+.conatct-data {
+  margin-top: 40px;
+  background-color: rgb(235, 219, 219);
+  display: flex;
+  justify-content: space-between;
+}
+.addbutton {
+  padding: 5px;
+
+  margin: 10px 10px;
+  font-size: 15px;
+  background-color: rgb(58, 58, 250);
+  color: white;
+  border-radius: 6px;
+}
+.data-search {
+  margin: 10px 10px;
+}
+.contact-search {
+  color: black;
+  font-size: 15px;
+  position: relative;
+  left: 20px;
+}
+.contact-input {
+  border-radius: 6px;
+}
+
+.more-conatact-header {
+  display: flex;
+  justify-content: space-between;
+}
+.contact {
+  color: rgb(82, 82, 248);
+  font-size: 20px;
+}
+.remove-icon {
+  font-size: 16px;
+  margin-top: 0px;
+  color: red;
+}
+.button-group {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.accept-btn {
+  color: white;
+  background: green;
+  margin-right: 5px;
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 6px;
+}
+.cancel-btn {
+  color: white;
+  background: green;
+  margin-right: 5px;
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 6px;
+}

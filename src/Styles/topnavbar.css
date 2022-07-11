@@ -1,0 +1,61 @@
+.navbar-wrapper{
+   background-color: rgb(15, 15, 233);
+ 
+
+}
+.navbar-icon{
+    color: white;
+    margin-left: 20px;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+.navbar-language{
+    margin-left: 20px;
+    color: white;
+}
+.navbar-language{
+    margin-left: 10px;
+    color: white;
+}
+.navbar-language-title{
+    margin-right: 10px;
+}
+.navbar-right{
+    color: white;
+    margin-left: 60%;
+ 
+}
+.input-field{
+    border: none;
+    background-color:rgb(15, 15, 233); 
+    color: white;
+}
+.search-icon{
+    font-size: 20px;
+    position: relative;
+    left: -24px;
+
+
+}
+.notification{
+    font-size: 20px;
+}
+.message{
+    font-size: 20px;
+    margin: 0px 25px;
+}
+.profile-Pic{
+    width:  40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+@media only screen and (max-width :600px){
+   .navbar-right{
+    color: white;
+    margin-left:-33%;
+ 
+}
+}
